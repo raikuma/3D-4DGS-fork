@@ -5,9 +5,6 @@ Seungjun Oh, Younggeun Lee, Hyejin Jeon, Eunbyung Park
 
 ![main](assets/main.jpg)
 
-*Recent advancements in dynamic 3D scene reconstruction have shown promising results, enabling high-fidelity
-3D novel view synthesis with improved temporal consistency. Among these, 4D Gaussian Splatting (4DGS) has
-emerged as an appealing approach due to its ability to model high-fidelity spatial and temporal variations. However, existing methods suffer from substantial computational and memory overhead due to the redundant allocation of 4D Gaussians to static regions, which can also degrade image quality. In this work, we introduce hybrid 3D–4D Gaussian Splatting (3D-4DGS), a novel framework that adaptively represents static regions with 3D Gaussians while reserving 4D Gaussians for dynamic elements. Our method begins with a fully 4D Gaussian representation and iteratively converts temporally invariant Gaussians into 3D, significantly reducing the number of parameters and improving computational efficiency. Meanwhile, dynamic Gaussians retain their full 4D representation, capturing complex motions with high fidelity. Our approach achieves significantly faster training times compared to baseline 4D Gaussian Splatting methods while maintaining or improving the visual quality.*
 
 ## 🔥 Overview
 
