@@ -1,7 +1,7 @@
 # Hybrid 3D-4D Gaussian Splatting for Fast Dynamic Scene Representation
 Seungjun Oh, Younggeun Lee, Hyejin Jeon, Eunbyung Park
 
-### [[Paper]()] [[Project Page](https://ohsngjun.github.io/3D-4DGS/)]
+### [[Paper](https://arxiv.org/abs/2505.13215)] [[Project Page](https://ohsngjun.github.io/3D-4DGS/)]
 
 ![main](assets/main.jpg)
 
