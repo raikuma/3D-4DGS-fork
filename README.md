@@ -61,13 +61,10 @@ This project builds upon:
 ## 📚 Bibtex
 
 ```
-@misc{oh2025hybrid3d4dgaussiansplatting,
-      title={Hybrid 3D-4D Gaussian Splatting for Fast Dynamic Scene Representation}, 
-      author={Seungjun Oh and Younggeun Lee and Hyejin Jeon and Eunbyung Park},
-      year={2025},
-      eprint={2505.13215},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2505.13215}, 
+@article{oh2025hybrid,
+  title={Hybrid 3D-4D Gaussian Splatting for Fast Dynamic Scene Representation},
+  author={Oh, Seungjun and Lee, Younggeun and Jeon, Hyejin and Park, Eunbyung},
+  journal={arXiv preprint arXiv:2505.13215},
+  year={2025}
 }
 ```
