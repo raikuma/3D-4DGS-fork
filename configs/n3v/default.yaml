@@ -14,7 +14,7 @@ ModelParams:
   # source_path: ".../$dataset"
   # model_path: "output/$dataset"
   images: "images"
-  resolution: 1 # use 2 for the original resolution dataset!
+  resolution: 2 # use 2 for the original resolution dataset!
   white_background: False
   data_device: "cuda"
   eval: True
